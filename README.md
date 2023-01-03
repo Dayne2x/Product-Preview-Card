@@ -21,7 +21,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 - Build out the project to the designs provided
 
 ### Screenshot
-| ![](/desktop-design.jpg) | ![](/mobile-design.jpg) |
+| ![](./desktop-design.jpg) | ![](./mobile-design.jpg) |
 | ------------------------------ | ----------------------------- |
 | Desktop version                | Mobile version                |
 
@@ -41,7 +41,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### What I learned
 
-This is the first ever project I did at FrontEnd Mentor. With the use of @media queries I have also achieved optimal responsiveness when viewed on mobile devices.
+This is the first ever project I did at FrontEnd Mentor. With the use of @media queries I have also achieved optimal responsiveness when viewed on mobile devices, as well as implementing active states as required.
 
 
 ### Continued development
